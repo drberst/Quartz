@@ -1,10 +1,10 @@
 ---
-title: CIT 211 Chapter 8 Post
+title: Chapter 8 Post
 created: '2022-03-09T17:12:36.672Z'
 modified: '2022-03-09T17:18:27.084Z'
 ---
 
-# CIT 211 Chapter 8 Post
+# Chapter 8 Post
 [[Chapter 8 - Shortcut.lnk|File Explorer Link]]
 basic bar, line, and tree map charts. In addition, you saw how to present
 measures tied to a geospatial field on a map

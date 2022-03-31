@@ -1,3 +1,9 @@
+---
+title: "VCA Homework"
+modified: "2022-03-31T13:33:21.644Z"
+---
+
+
 File explorer: [[VCA - Shortcut.lnk]]
 # REDO
 [GRADES](https://elearn.nmc.edu/grade/report/user/index.php?id=66126)

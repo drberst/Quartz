@@ -1,3 +1,8 @@
+---
+title: "Homework Nexus"
+modified: "2022-03-31T13:37:27.024Z"
+---
+
 ![[2022 NMC - Shortcut.lnk|File Explorer Link]]
 
 ## VCA
@@ -10,6 +15,5 @@
 ## CIT
 [[CIT Homework]]
  1. [x] [[Chapter 8 Post]]: Data source with categories or geo data
-2. [x] Chapter 9 Login stuff
 3. [x] [[Chapter 9 Post]]: Data source that's refreshable 
-4. [ ] [[Chapter 10 Post]] due Sunday. 
+4. [x] [[Chapter 10 Post]] due Sunday. 

@@ -1,3 +1,6 @@
+---
+title: "Chapter 9 Post"
+---
 Stuff about data visualizations
 Need to make an account and do stuff from the chapter first
 Then Lab, then post. 

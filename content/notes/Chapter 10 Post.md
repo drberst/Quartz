@@ -1,3 +1,8 @@
+---
+title: "Chapter 10 Post"
+modified: "2022-03-31T13:32:53.610Z"
+---
+
 Basically redoing things from previous chapters in Excel / Power Pivot/ whatever
 I think for the post I'll start by seeing if there's a previous work I can redo in Excel
 Or it might be better just to use my own csv file 
