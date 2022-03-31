@@ -2,6 +2,8 @@
 title: Quartz 3.1
 ---
 [Homework](/notes/Homework-nexus)
+[Homework2](/Quartz/notes/Homework-nexus)
+[Homework3](notes/Homework-nexus)
 
 
 
