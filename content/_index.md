@@ -1,6 +1,10 @@
 ---
-title: 🪴 Quartz 3.1
+title: Quartz 3.1
 ---
+[Homework](/notes/Homework-nexus)
+
+
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 1. Extremely fast full-text search by pressing `/`
 2. Display for backlinks of each note
@@ -24,4 +28,3 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
